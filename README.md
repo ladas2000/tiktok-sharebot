@@ -37,5 +37,5 @@
 ```
 
 ##  Credits:
- > [![](https://cdn.discordapp.com/avatars/916040642369552414/a_1b5cc1dee6489570f593d1117a775fc7.gif?size=40)](https://www.youtube.com/channel/UCLqJR5p90opzRI6XhsR_pVg) <br>Lekkas :
+ > [![](https://cdn.discordapp.com/avatars/916040642369552414/a_1b5cc1dee6489570f593d1117a775fc7.gif?size=40)](https://www.youtube.com/channel/UCLqJR5p90opzRI6XhsR_pVg?sub_confirmation=1) <br>Lekkas :
  <br>Discord : https://discord.gg/kaz7fFNpF4
